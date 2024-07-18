@@ -7,6 +7,7 @@ function setup(){
 
     rectMode(CENTER); // draw rect in ussing the coordinates as the center point
 
+    // changing my file
 }
 
 function draw(){
